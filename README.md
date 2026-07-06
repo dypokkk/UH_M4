@@ -9,6 +9,10 @@ I use PostgreSQL 16 with a docker enviroment
 • Database structure.
 • Entity Relationship Model.
 
+![DER](./DER.png)
+
+![MER](./MR.png)
+
 To create the database and load the data, just execute the RiwiSupply.sql
 
 [Github repository link](https://github.com/dypokkk/UH_M4)
